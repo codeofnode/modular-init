@@ -1,0 +1,26 @@
+{
+  "name": "modular-init",
+  "version": "0.0.0",
+  "description": "Modular initialization",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/codeofnode/modular-init.git"
+  },
+  "keywords": [
+    "modular",
+    "init",
+    "bin",
+    "source",
+    "server"
+  ],
+  "author": "Ramesh Kumar <codeofnode@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/codeofnode/modular-init/issues"
+  },
+  "homepage": "https://github.com/codeofnode/modular-init#readme"
+}
